@@ -1,3 +1,8 @@
+
+<!--
+## Description - This repository demonstrates on how to create restAPI using php.
+@Author : Savan Visalpara
+# This is the core file, which returns data in json format..
 <?php
 
     header("Content-Type: application/json");
@@ -38,3 +43,10 @@
 
 
 ?>
+
+<!--
+
+Note: Since we are dealing with basic restAPI, in this repository i've used get request and didn't provided more security.
+      In real world app you have to create more secure and reliable service..
+
+-->
