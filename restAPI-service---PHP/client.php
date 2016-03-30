@@ -1,5 +1,10 @@
 
-
+<!--
+## Description - This repository demonstrates on how to create restAPI using php.
+@Author : Savan Visalpara
+# Remaining two files are the backbone of restAPI service..
+# Now, this file demonstrates on how to create client app which uses API create using remaining files.
+-->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -53,6 +58,8 @@
 	
 	?>
 	
+	
+	//representing data in table format..
 	<table id="table-data">
 		<tr>
 			<th>Book</th>
